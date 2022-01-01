@@ -1,0 +1,459 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="708" height="545" viewBox="0 0 708 545">
+  <defs>
+    <path id="multiple-ways-to-track-time-a" d="M22.5223817,208.379356 C66.9333233,352.773183 194.029479,460.245977 355.854979,461 L355.854979,461 C517.6776,461.747323 707.295215,336.223863 708,185.171767 L708,185.171767 C708.622763,50.1656668 571.95732,51.4167886 427.375544,52.6707864 L427.375544,52.6707864 C410.195173,52.8203458 392.902493,52.967029 375.716363,52.8864971 L375.716363,52.8864971 C290.920319,52.4953418 168.728316,0 86.958851,0 L86.958851,0 C12.6737615,0 -28.2498471,43.3204491 22.5223817,208.379356"/>
+    <rect id="multiple-ways-to-track-time-d" width="512" height="384" rx="12"/>
+    <filter id="multiple-ways-to-track-time-c" width="166.8%" height="194.3%" x="-33.4%" y="-23.7%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="100" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="40"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter2"/>
+      <feOffset dy="40" in="shadowSpreadOuter2" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="16"/>
+      <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter3"/>
+      <feOffset dy="20" in="shadowSpreadOuter3" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="10"/>
+      <feComposite in="shadowBlurOuter3" in2="SourceAlpha" operator="out" result="shadowBlurOuter3"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0"/>
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter4"/>
+      <feOffset dy="12" in="shadowSpreadOuter4" result="shadowOffsetOuter4"/>
+      <feGaussianBlur in="shadowOffsetOuter4" result="shadowBlurOuter4" stdDeviation="5"/>
+      <feComposite in="shadowBlurOuter4" in2="SourceAlpha" operator="out" result="shadowBlurOuter4"/>
+      <feColorMatrix in="shadowBlurOuter4" result="shadowMatrixOuter4" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0352941176 0"/>
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter5"/>
+      <feOffset dy="8" in="shadowSpreadOuter5" result="shadowOffsetOuter5"/>
+      <feGaussianBlur in="shadowOffsetOuter5" result="shadowBlurOuter5" stdDeviation="2"/>
+      <feComposite in="shadowBlurOuter5" in2="SourceAlpha" operator="out" result="shadowBlurOuter5"/>
+      <feColorMatrix in="shadowBlurOuter5" result="shadowMatrixOuter5" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.02 0"/>
+      <feMorphology in="SourceAlpha" operator="dilate" radius="1" result="shadowSpreadOuter6"/>
+      <feOffset dy="2" in="shadowSpreadOuter6" result="shadowOffsetOuter6"/>
+      <feGaussianBlur in="shadowOffsetOuter6" result="shadowBlurOuter6" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter6" in2="SourceAlpha" operator="out" result="shadowBlurOuter6"/>
+      <feColorMatrix in="shadowBlurOuter6" result="shadowMatrixOuter6" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+        <feMergeNode in="shadowMatrixOuter4"/>
+        <feMergeNode in="shadowMatrixOuter5"/>
+        <feMergeNode in="shadowMatrixOuter6"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-f" width="80" height="188" rx="2"/>
+    <filter id="multiple-ways-to-track-time-e" width="108.8%" height="103.7%" x="-4.4%" y="-1.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-h" width="80" height="36" rx="2"/>
+    <filter id="multiple-ways-to-track-time-g" width="108.8%" height="119.4%" x="-4.4%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-j" width="80" height="42" rx="2"/>
+    <filter id="multiple-ways-to-track-time-i" width="108.8%" height="116.7%" x="-4.4%" y="-6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-l" width="80" height="30" rx="2"/>
+    <filter id="multiple-ways-to-track-time-k" width="108.8%" height="123.3%" x="-4.4%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-n" width="80" height="157" rx="2"/>
+    <filter id="multiple-ways-to-track-time-m" width="108.8%" height="104.5%" x="-4.4%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-p" width="80" height="30" rx="2"/>
+    <filter id="multiple-ways-to-track-time-o" width="108.8%" height="123.3%" x="-4.4%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-r" width="80" height="88" rx="2"/>
+    <filter id="multiple-ways-to-track-time-q" width="108.8%" height="108%" x="-4.4%" y="-2.8%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-t" width="80" height="155" rx="2"/>
+    <filter id="multiple-ways-to-track-time-s" width="108.8%" height="104.5%" x="-4.4%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-v" width="80" height="36" rx="2"/>
+    <filter id="multiple-ways-to-track-time-u" width="108.8%" height="119.4%" x="-4.4%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-x" width="80" height="80" rx="2"/>
+    <filter id="multiple-ways-to-track-time-w" width="108.8%" height="108.8%" x="-4.4%" y="-3.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-z" width="80" height="80" rx="2"/>
+    <filter id="multiple-ways-to-track-time-y" width="108.8%" height="108.8%" x="-4.4%" y="-3.1%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-B" width="80" height="36" rx="2"/>
+    <filter id="multiple-ways-to-track-time-A" width="108.8%" height="119.4%" x="-4.4%" y="-6.9%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <rect id="multiple-ways-to-track-time-D" width="80" height="155" rx="2"/>
+    <filter id="multiple-ways-to-track-time-C" width="108.8%" height="104.5%" x="-4.4%" y="-1.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.121568627 0"/>
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0784313725 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="multiple-ways-to-track-time-E" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-opacity=".04"/>
+      <stop offset="100%" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="multiple-ways-to-track-time-b" fill="#fff">
+      <use xlink:href="#multiple-ways-to-track-time-a"/>
+    </mask>
+    <use fill="#FBFCFD" xlink:href="#multiple-ways-to-track-time-a"/>
+    <g mask="url(#multiple-ways-to-track-time-b)">
+      <g transform="translate(106 101)">
+        <use fill="#000" filter="url(#multiple-ways-to-track-time-c)" xlink:href="#multiple-ways-to-track-time-d"/>
+        <rect width="513" height="385" x="-.5" y="-.5" fill="#EEF3F8" stroke="#DDE8F1" rx="12"/>
+        <g transform="translate(33 64)">
+          <g transform="translate(382)">
+            <rect width="96" height="320"/>
+            <g transform="translate(9 15)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-e)" xlink:href="#multiple-ways-to-track-time-f"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-f"/>
+              <rect width="24" height="2" x="50" y="179" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 176)">
+                <rect width="8" height="8" fill="#00C3F2" rx="1"/>
+                <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="2 2.5 3.5 4 2 5.5"/>
+                <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="4.5 2.5 6 4 4.5 5.5"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+          </g>
+          <g transform="translate(287)">
+            <rect width="96" height="320"/>
+            <rect width="1" height="320" x="95" fill="#BCD8E0"/>
+            <g transform="translate(8 15)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-g)" xlink:href="#multiple-ways-to-track-time-h"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-h"/>
+              <rect width="24" height="2" x="50" y="27" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 24)">
+                <rect width="8" height="8" fill="#E9636F" rx="1"/>
+                <path fill="#FFF" d="M3 2L5 2C5.55228475 2 6 2.44771525 6 3L6 3 6 3 2 3C2 2.44771525 2.44771525 2 3 2zM6 4L6 5C6 5.55228475 5.55228475 6 5 6L3 6C2.44771525 6 2 5.55228475 2 5L2 4 3 4 3 5 5 5 5 4 6 4z"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+            <g transform="translate(8 59)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-i)" xlink:href="#multiple-ways-to-track-time-j"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-j"/>
+              <rect width="24" height="2" x="50" y="33" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 30)">
+                <rect width="8" height="8" fill="#E9636F" rx="1"/>
+                <path fill="#FFF" d="M3 2L5 2C5.55228475 2 6 2.44771525 6 3L6 3 6 3 2 3C2 2.44771525 2.44771525 2 3 2zM6 4L6 5C6 5.55228475 5.55228475 6 5 6L3 6C2.44771525 6 2 5.55228475 2 5L2 4 3 4 3 5 5 5 5 4 6 4z"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+            <g transform="translate(8 109)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-k)" xlink:href="#multiple-ways-to-track-time-l"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-l"/>
+              <rect width="24" height="2" x="50" y="21" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 18)">
+                <rect width="8" height="8" fill="#E9636F" rx="1"/>
+                <path fill="#FFF" d="M3 2L5 2C5.55228475 2 6 2.44771525 6 3L6 3 6 3 2 3C2 2.44771525 2.44771525 2 3 2zM6 4L6 5C6 5.55228475 5.55228475 6 5 6L3 6C2.44771525 6 2 5.55228475 2 5L2 4 3 4 3 5 5 5 5 4 6 4z"/>
+              </g>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+            <g transform="translate(7 147)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-m)" xlink:href="#multiple-ways-to-track-time-n"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-n"/>
+              <rect width="24" height="2" x="50" y="148" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 145)">
+                <rect width="8" height="8" fill="#00C3F2" rx="1"/>
+                <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="2 2.5 3.5 4 2 5.5"/>
+                <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="4.5 2.5 6 4 4.5 5.5"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+          </g>
+          <g transform="translate(191)">
+            <rect width="96" height="320"/>
+            <rect width="1" height="320" x="95" fill="#BCD8E0"/>
+            <g transform="translate(8 15)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-o)" xlink:href="#multiple-ways-to-track-time-p"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-p"/>
+              <rect width="24" height="2" x="50" y="21" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 18)">
+                <rect width="8" height="8" fill="#E9636F" rx="1"/>
+                <path fill="#FFF" d="M3 2L5 2C5.55228475 2 6 2.44771525 6 3L6 3 6 3 2 3C2 2.44771525 2.44771525 2 3 2zM6 4L6 5C6 5.55228475 5.55228475 6 5 6L3 6C2.44771525 6 2 5.55228475 2 5L2 4 3 4 3 5 5 5 5 4 6 4z"/>
+              </g>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+            <g transform="translate(8 53)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-q)" xlink:href="#multiple-ways-to-track-time-r"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-r"/>
+              <rect width="24" height="2" x="50" y="79" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 76)">
+                <rect width="8" height="8" fill="#E9636F" rx="1"/>
+                <path fill="#FFF" d="M3 2L5 2C5.55228475 2 6 2.44771525 6 3L6 3 6 3 2 3C2 2.44771525 2.44771525 2 3 2zM6 4L6 5C6 5.55228475 5.55228475 6 5 6L3 6C2.44771525 6 2 5.55228475 2 5L2 4 3 4 3 5 5 5 5 4 6 4z"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+            <g transform="translate(8 149)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-s)" xlink:href="#multiple-ways-to-track-time-t"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-t"/>
+              <rect width="24" height="2" x="50" y="146" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 143)">
+                <rect width="8" height="8" fill="#00C3F2" rx="1"/>
+                <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="2 2.5 3.5 4 2 5.5"/>
+                <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="4.5 2.5 6 4 4.5 5.5"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+          </g>
+          <g transform="translate(96)">
+            <rect width="96" height="320"/>
+            <rect width="1" height="320" x="95" fill="#BCD8E0"/>
+            <g transform="translate(8 15)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-u)" xlink:href="#multiple-ways-to-track-time-v"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-v"/>
+              <rect width="24" height="2" x="50" y="27" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 24)">
+                <rect width="8" height="8" fill="#E9636F" rx="1"/>
+                <path fill="#FFF" d="M3 2L5 2C5.55228475 2 6 2.44771525 6 3L6 3 6 3 2 3C2 2.44771525 2.44771525 2 3 2zM6 4L6 5C6 5.55228475 5.55228475 6 5 6L3 6C2.44771525 6 2 5.55228475 2 5L2 4 3 4 3 5 5 5 5 4 6 4z"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+            <g transform="translate(8 59)">
+              <use fill="#000" filter="url(#multiple-ways-to-track-time-w)" xlink:href="#multiple-ways-to-track-time-x"/>
+              <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-x"/>
+              <rect width="24" height="2" x="50" y="71" fill="#A7C7D1" rx="1"/>
+              <g transform="translate(6 68)">
+                <rect width="8" height="8" fill="#E9636F" rx="1"/>
+                <path fill="#FFF" d="M3 2L5 2C5.55228475 2 6 2.44771525 6 3L6 3 6 3 2 3C2 2.44771525 2.44771525 2 3 2zM6 4L6 5C6 5.55228475 5.55228475 6 5 6L3 6C2.44771525 6 2 5.55228475 2 5L2 4 3 4 3 5 5 5 5 4 6 4z"/>
+              </g>
+              <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+              <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+              <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+            </g>
+          </g>
+          <rect width="96" height="320"/>
+          <rect width="1" height="320" x="95" fill="#BCD8E0"/>
+          <g transform="translate(8 15)">
+            <use fill="#000" filter="url(#multiple-ways-to-track-time-y)" xlink:href="#multiple-ways-to-track-time-z"/>
+            <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-z"/>
+            <rect width="24" height="2" x="50" y="71" fill="#A7C7D1" rx="1"/>
+            <g transform="translate(6 68)">
+              <rect width="8" height="8" fill="#00B47E" rx="1"/>
+              <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="2 4.5 3 5.5 6 2.5"/>
+            </g>
+            <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+            <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+            <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+          </g>
+          <g transform="translate(8 103)">
+            <use fill="#000" filter="url(#multiple-ways-to-track-time-A)" xlink:href="#multiple-ways-to-track-time-B"/>
+            <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-B"/>
+            <rect width="24" height="2" x="50" y="27" fill="#A7C7D1" rx="1"/>
+            <g transform="translate(6 24)">
+              <rect width="8" height="8" fill="#00B47E" rx="1"/>
+              <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="2 4.5 3 5.5 6 2.5"/>
+            </g>
+            <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+            <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+            <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+          </g>
+          <g transform="translate(8 147)">
+            <use fill="#000" filter="url(#multiple-ways-to-track-time-C)" xlink:href="#multiple-ways-to-track-time-D"/>
+            <use fill="#FFF" xlink:href="#multiple-ways-to-track-time-D"/>
+            <rect width="24" height="2" x="50" y="146" fill="#A7C7D1" rx="1"/>
+            <g transform="translate(6 143)">
+              <rect width="8" height="8" fill="#00B47E" rx="1"/>
+              <polyline stroke="#FFF" stroke-linecap="round" stroke-linejoin="round" points="2 4.5 3 5.5 6 2.5"/>
+            </g>
+            <rect width="60" height="2" x="6" y="18" fill="#DDE8F1" rx="1"/>
+            <rect width="60" height="2" x="6" y="12" fill="#A7C7D1" rx="1"/>
+            <rect width="68" height="2" x="6" y="6" fill="#A7C7D1" rx="1"/>
+          </g>
+        </g>
+        <g transform="translate(32)">
+          <path fill="#FFF" d="M0,0 L468,0 C474.627417,-1.21743675e-15 480,5.372583 480,12 L480,40 L480,40 L0,40 L0,0 Z"/>
+          <rect width="464" height="1" x="8" y="39" fill="#DDE8F1"/>
+          <g transform="translate(11 8)">
+            <circle cx="12" cy="12" r="12" fill="#0073A9"/>
+            <path fill="#00BEE9" d="M12,19 C14.7614237,19 17,18.8210678 17,16.75 C17,14.6789322 14.7614237,13 12,13 C9.23857625,13 7,14.6789322 7,16.75 C7,18.8210678 9.23857625,19 12,19 Z"/>
+            <circle cx="12" cy="9" r="3" fill="#00BEE9"/>
+          </g>
+        </g>
+        <g transform="translate(32 40)">
+          <rect width="480" height="4" y="24" fill="url(#multiple-ways-to-track-time-E)"/>
+          <rect width="480" height="24" fill="#FFF"/>
+        </g>
+        <g>
+          <path fill="#F5F8FA" d="M12,0 L32,0 L32,0 L32,384 L12,384 C5.372583,384 8.11624501e-16,378.627417 0,372 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z"/>
+          <rect width="1" height="384" x="32" fill="#DDE8F1"/>
+          <g transform="translate(6.154 10)">
+            <path fill="#F89B46" d="M19.6923077,9.84089077 C19.6923077,15.2816781 15.2874068,19.6923077 9.85368625,19.6923077 C9.7171121,19.6923077 9.5811879,19.6895213 9.44596726,19.6840022 L8.5,18.0430584 C8.94052291,18.1154023 9.3927168,18.1530238 9.85368625,18.1530238 C14.438388,18.1530238 18.1550231,14.4315551 18.1550231,9.84089077 C18.1550231,9.14279129 18.0690755,8.46479204 17.9071978,7.81692338 L18.9326687,6.03846154 C19.4219864,7.20845772 19.6923077,8.49306473 19.6923077,9.84089077 Z"/>
+            <path fill="#00C3F2" d="M1.53817306,9.84268004 C1.53817306,13.6786449 4.14110445,16.9069682 7.67791321,17.8594346 L8.69230769,19.6153846 C3.79825674,19.0452372 0,14.8873009 0,9.84268004 C0,7.92202475 0.550587201,6.12990137 1.50261191,4.61538462 L3.39102798,4.61538462 C2.23242739,6.04258533 1.53817306,7.86159754 1.53817306,9.84268004 Z"/>
+            <path fill="#00B47E" d="M9.84641467,0 C13.6699385,0 16.9844314,2.17382004 18.6153846,5.34996966 L17.6602658,7 C16.5033659,3.81231953 13.4415831,1.53449283 9.84641467,1.53449283 C7.53804683,1.53449283 5.44957271,2.47355041 3.94403052,3.98956033 L1.92307692,3.98957504 C3.71637199,1.56940111 6.5976445,0 9.84641467,0 Z"/>
+            <path fill="#004976" d="M8.46802863,13.6473221 L5.19898227,10.3891779 C5.13880078,10.3291971 5.13880078,10.231949 5.19898227,10.1719683 L6.72453723,8.65150096 C6.78471872,8.59152018 6.88229218,8.59152018 6.94247366,8.65150096 L8.57699684,10.2805731 L12.8267571,6.04498558 C12.8869386,5.98500481 12.9845121,5.98500481 13.0446935,6.04498558 L14.5702485,7.56545289 C14.63043,7.62543367 14.63043,7.72268173 14.5702485,7.7826625 L8.68596505,13.6473221 C8.62578357,13.7073029 8.52821011,13.7073029 8.46802863,13.6473221 Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(364 281)">
+      <path fill="#CB6128" d="M276,96.2493057 C268.728333,88.61348 253.04985,85.0052761 231.832939,95.6179078 C210.616027,106.232054 169,129.08805 169,129.08805 L182.977285,143 L254.816655,128.468765"/>
+      <path fill="#2891CF" d="M213.994337,81.4812085 C214.234293,105.488648 206.818456,124.846845 197.432859,124.939345 C196.845121,124.94541 191.250211,125 191.250211,125 C191.250211,125 180.230488,104.327096 180.004201,81.8208792 C179.834106,64.7463611 184.854945,45.2289436 190.383031,38.0624985 C193.019503,38.0367199 193.851753,38.0276216 196.562641,38 C205.949757,37.907827 213.754382,57.4752853 213.994337,81.4812085"/>
+      <path fill="#2283B4" d="M207.994407,81.3315504 C208.232824,105.35606 200.819126,124.907083 191.434313,125 C182.049501,125.095249 174.245528,105.694455 174.005593,81.6699452 C173.767176,57.6469526 181.180874,38.0944127 190.565687,38 C199.950499,37.9077645 207.754472,57.3070404 207.994407,81.3315504"/>
+      <path fill="#369BBE" d="M205.994143,82.3477177 C206.227126,105.267745 199.479956,123.915966 190.921736,124 C182.36507,124.081965 175.237362,105.570807 175.005932,82.6507799 C174.771397,59.7307528 181.52012,41.0825315 190.076787,41 C198.635006,40.9150097 205.762714,59.4276907 205.994143,82.3477177"/>
+      <path fill="#6DCBDB" d="M191.883748,122.980158 C198.093576,120.866172 204.99216,110.058133 204.701247,81.8803057 C204.411906,53.6154765 197.294742,43.242446 191.033023,41.0200898 L191,41 C199.018209,40.9224038 205.759543,59.2293679 205.993847,81.868095 C206.225005,104.506822 199.914538,122.922156 191.897901,123 L191.883748,122.980158 Z"/>
+      <path fill="#0AC2F0" d="M53,108.71561 L52.1138148,19 C22.8259964,19.2973139 -0.50267863,61.6043182 0.00823427262,113.497027 C0.210188045,133.859217 4.05032397,152.67385 10.4163892,168 L53,108.71561 Z"/>
+      <polygon fill="#86D3E6" points="52.29 108.716 9 168 24.346 168 68 109.021 66.882 22.052 51.389 19"/>
+      <polygon fill="#DF7426" points="199 165 208 170.414 202.406 173 199.162 168.556"/>
+      <path fill="#2891CF" d="M198.123514,201.935165 L194.903969,202 C193.845444,202.021043 192.967682,201.229747 192.944883,200.23296 L191.000453,113.909658 C190.977654,112.911338 191.81796,112.084771 192.876486,112.063302 L196.096031,112 C197.154556,111.978958 198.03069,112.76872 198.055117,113.767041 L199.999547,200.091876 C200.022346,201.088663 199.18204,201.913696 198.123514,201.935165"/>
+      <path fill="#85D2E7" d="M203.994067,81.8587773 C204.216892,104.502496 198.135432,122.921892 190.406278,123 C182.677124,123.077613 176.230352,104.784932 176.006011,82.1412131 C175.78167,59.497494 181.864646,41.0780987 189.5938,41 C197.322954,40.923904 203.769726,59.2165849 203.994067,81.8587773"/>
+      <path fill="#CB6128" d="M106,118.475358 C106,118.475358 162.379725,151.028794 185.52644,142.608908 C190.214286,140.902957 188.096255,125.460904 180.382215,123.814463 C172.666644,122.166497 113.072352,111 113.072352,111"/>
+      <path fill="#5BBF91" d="M144.955863,118.187011 C146.111037,65.777012 124.379807,22.3581357 104.538448,19.3788109 C104.075468,19.3605887 84.5103781,18.0485925 84.5103781,18.0485925 L83,18 L84.0382901,100.976171 L131.453538,122 L144.955863,118.187011 Z"/>
+      <path fill="#20B57C" d="M131,122 C130.511174,72.618016 109.280434,18.5944508 83,18 L84.0033003,101.343216 L131,122 Z"/>
+      <path fill="#DF7426" d="M116.267795,118.326903 C112.339843,121.741152 104.773643,119.763459 99.367894,113.909606 C93.9621446,108.055753 92.1977253,98.9401269 96.1272181,95.5273726 C100.05517,92.1146184 109.267134,94.6947383 114.671342,100.548591 C120.077092,106.402444 120.197288,114.914149 116.267795,118.326903"/>
+      <path fill="#EEAC53" d="M133,123.81455 C130.168468,169.429007 119.945277,207.181006 92.8032616,217.750712 C88.2951447,219.504704 68.4652433,221.957241 64.232478,221.998422 C52.6554747,222.114338 44.3566846,215.838099 38.5069937,205.064015 C33.8137794,196.414549 63.248861,123.759643 63.248861,123.759643 L74.6071128,120 L133,123.81455 Z"/>
+      <path fill="#EC9C31" d="M63.9094563,123 L118.992411,127.008506 C119.41004,169.277652 102.539357,204.966884 81.0929812,217.375117 C75.9979104,220.323091 70.5520314,221.941556 64.8859482,221.998425 C46.9537288,222.179791 30.9304525,206.685254 21,182.763325 L63.9094563,123 Z"/>
+      <path fill="#0B1528" d="M264.156736,9.776398 C280.733552,-8.54772678 313.884135,0.614335608 313.312678,22.9477215 C312.741222,45.2811074 313.884135,39.5542458 321.314596,41.273373 C328.746581,42.9909734 332.746777,44.1360404 331.603864,54.4446965 C330.460951,64.7518258 317.885856,72.7688213 327.602143,76.7780824 C337.319955,80.7858167 353.895246,88.8028121 336.177041,107.700997 C318.457312,126.599182 258.442169,117.435593 242.436811,96.8198076 C226.432976,76.2055489 217.710261,59.00817 237.142836,54.4263754 C256.576935,49.8461076 250.289387,52.708775 245.144753,41.2565787 C240.000119,29.8028556 239.579527,16.075793 248.724358,8.05879757 C257.870713,0.0418021313 264.156736,9.776398 264.156736,9.776398"/>
+      <path fill="#3F0525" d="M330.616099,131.02991 C327.793481,111.715469 325.377562,99.6097996 311.721246,90.8506237 L267.268034,86.1643119 C256.53753,84.0248755 247.779824,82.4134313 240.849233,104.503646 C238.594173,111.689527 239.32259,117.929296 236.370981,121.70917 C207.505909,158.644204 248.793539,186.481293 241.872053,229.263916 C251.538763,249.75642 262.211601,260.302529 285.238708,264 C297.31375,258.413355 308.979057,251.958422 319.985753,244.738969 C317.712482,232.618039 315.735132,218.261536 317.028073,209.714473 C321.054099,183.055448 336.687765,172.576482 330.616099,131.02991"/>
+      <path fill="#DF7426" d="M317.905828,102.355117 C306.328563,112.072765 292.1939,126.197946 303.584704,141.503662 C298.992909,159.874492 275.075859,191.547337 282.37513,202.411921 C291.702734,216.295803 300.008592,223.265997 308.761653,204.884477 C314.114452,193.639617 326.749846,168.727739 330.362341,156.291654 C337.825333,130.593262 333.04253,121.289488 322.932699,98.663846 C318.433377,102.833134 329.483093,92.6374685 317.905828,102.355117"/>
+      <path fill="#CB6128" d="M282.745548,73 C282.745548,73 274.471499,76.8132322 281.824719,87.6690415 C271.133867,92.6051335 257.083032,121.857879 265.644654,124.828218 C274.206276,127.801551 307,91.1918272 307,91.1918272 L304.650248,73.1542061"/>
+      <path fill="#DF7426" d="M257.919063,73.1718523 C260.962242,83.4121465 262.88433,89.9109706 271.150674,93.2502632 C273.72964,94.2907453 276.568019,95.1758406 279.750766,96 C282.844008,95.7379752 283.802777,95.9588682 287.122058,94.0348141 C291.394039,90.5538453 301.750862,80.2465215 303.723012,75.475233 C308.953761,62.8386307 317.414286,55.6070514 310.229591,43.4838349 C300.46593,27.0036947 284.297331,18.7712415 269.073848,27.591727 C253.848848,36.4106891 252.45924,54.7950792 257.919063,73.1718523"/>
+      <path fill="#0B1528" d="M308.117037,74 C307.262161,35.3738172 274.921378,41.773849 273.60712,36.0241207 C259.449946,36.9173271 255.304862,53.0473136 255.304862,74 C255.304862,74 248.179881,39.624619 252.262599,28.0744295 C254.541254,21.6328889 276.155016,16 276.155016,16 L294.738683,19.5789753 C294.738683,19.5789753 310.637552,39.1065285 315.78202,43.7924033 C320.924967,48.4752034 308.117037,74 308.117037,74"/>
+      <path stroke="#0C1629" stroke-linecap="round" stroke-width=".5" d="M314,35 C314.088284,37.5179017 315.939249,38.1613823 316.855005,38.2673673 C323.263804,39.0153188 333.555589,39.2272889 334,52"/>
+      <path fill="#0B1528" d="M272.838478,63 C272.504206,68.1082315 271.997976,71.1984763 271.472461,71.9122337 C268.054203,76.5613894 271.154259,78.3425384 275,75.9157634"/>
+      <path fill="#DF7426" d="M283.281813,217.348583 C276.517678,215.246725 227.217804,192.328867 220.26743,187.678888 C183.488305,163.079544 199.552171,168.180355 216.7121,173.017673 C237.871584,178.982073 262.097904,185.456707 279.859292,190.983983 C297.620681,196.512781 305.152669,207.582562 303.858156,211.396367 C300.991299,219.854057 292.760151,220.297275 283.281813,217.348583"/>
+      <path stroke="#0C1629" stroke-linecap="round" stroke-width=".5" d="M236.786627,93 C225.47635,78.2377953 222.275762,65.6163565 223.130787,60.6961346 C223.982742,55.7759127 231.664152,51.7098425 237,50"/>
+      <path fill="#F58A1F" d="M206.981711,169.974419 C212.07329,170.93458 215.877466,180.031955 214.82372,183 C213.029297,182.192317 209.77032,180.886438 209.77032,180.886438 C209.77032,180.886438 197.446072,185.487964 190.39819,180.974 C183.347254,176.461545 189.068027,170.154072 191.520659,165 C191.670321,165.4363 192.794317,164.846012 192.797372,165.341189 C192.832496,172.101568 195.167537,171.431267 206.981711,169.974419"/>
+    </g>
+  </g>
+</svg>
