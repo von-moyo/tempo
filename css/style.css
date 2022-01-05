@@ -54,7 +54,7 @@ body
 	font-size: 16px;
 	font-weight: 500;
     line-height: 20px;
-    cursor: default;
+	cursor: pointer;
 	color: #4b7682;
 	margin-right: 15px;
 	margin-left: 40px;
@@ -68,7 +68,7 @@ body
 	font-size: 16px;
 	font-weight: 500;
     line-height: 20px;
-    cursor: default;
+	cursor: pointer;
 	color: #4b7682;
 	margin-right: 13px;
 }
@@ -80,7 +80,7 @@ body
 	font-size: 16px;
 	font-weight: 500;
     line-height: 20px;
-    cursor: default;
+    cursor: pointer;
 	color: #4b7682;
 	margin-right: 13px;
 }
@@ -95,6 +95,7 @@ body
     cursor: default;
 	color: #4b7682;
 	margin-right: 13px;
+	cursor: pointer;
 	white-space: nowrap;
 }
 .hbar_pricing
@@ -108,6 +109,7 @@ body
     cursor: default;
 	color: #4b7682;
 	margin-right: 13px;
+	cursor: pointer;
 }
 .hbar_btn
 {
@@ -123,7 +125,12 @@ body
 	margin-right: 45px;
 	margin-left: 25px;
 	margin-top: 5px;
+	cursor: pointer;
 	white-space: nowrap;
+}
+.hbar_btn:hover
+{
+	background-color: #001c3d;
 }
 .hbar_icons
 {
@@ -221,10 +228,11 @@ body
 .para2
 {
 	font-size: 20px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 30px;
 	color: #4b7682;
 	width: 450px;
+
 }
 
 .parabtn
@@ -232,11 +240,17 @@ body
 	font-weight: 900;
 	background-color: #004976;
     color: #fff;
-	font-size: 18px;
-	padding: 17px 50px;
+	font-size: 16px;
+	padding: 14px 43px;
 	width: fit-content;
 	border-radius: 4px;
 	margin-top: 43px;
+	border: none;
+	cursor: pointer;
+	transition: 0.5s;
+}
+.parabtn:hover{
+	transition: 0.5s;
 }
 
 .bar2
@@ -260,14 +274,16 @@ body
 {
 	color: white;
 	padding-top: 18px;
+	padding-bottom: 18px;
 	font-size: 15px;
 	font-weight: 700;
+	line-height: 20px;
 	display: flex;
 }
 
 .ba
 {
-	margin-left: 1%;
+	margin-left: 3rem;
 	font-weight: 900;
 }
 
@@ -332,6 +348,7 @@ body
 	display: flex;
 	margin-top: 7px;
 	margin-right: 20px;
+	cursor: pointer;
 }
 .gts
 {
@@ -346,11 +363,19 @@ body
 	font-size: 14px;
 	font-weight: 700;
 	width: fit-content;
+	border: none;
 	height: fit-content;
 	border-radius: 4px;
 	margin-left: 5%;
 	padding: 9px 32px 9px 32px;
+	cursor: pointer;
 }
+
+.btn2:hover
+{
+	background-color: #001c3d;
+}
+
 .note
 {	
 	display: flex;
@@ -465,6 +490,7 @@ body
 	border-radius: 10px;
 	background-color: white;
 	width: 25%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .bname
 {
@@ -596,6 +622,13 @@ body
 	padding-bottom: 18px;
 }
 
+.boxx:hover
+{
+	background-color: rgba(0, 0, 0, 0.05);
+	border-radius: 7px;
+	padding-left: 15px;
+}
+
 #bod5-31
 {
 	justify-content: center;
@@ -680,6 +713,13 @@ body
 	font-size: 15px;
     line-height: 23px;
 	color: #fff;
+}
+
+.boxxx:hover
+{
+	background-color: rgba(0, 0, 0, 0.05);
+	border-radius: 7px;
+	padding-left: 15px;
 }
 
 #bod7
@@ -915,6 +955,7 @@ body
 	width: fit-content;
 	margin-top: 25px;
 	border-radius: 4px;
+	cursor: pointer;
 }
 
 #em
@@ -929,6 +970,10 @@ body
 	border-radius: 2px;
 	width: 397px;
 	margin-top: 8px;
+}
+#em:focus
+{
+	outline: none;
 }
 
 @media (min-width: 1441px)
