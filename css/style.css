@@ -7,6 +7,7 @@
 *
 {
 	box-sizing: border-box;
+	border: 1px solid;
 }
 body
 {
@@ -490,6 +491,9 @@ body
 	border-radius: 10px;
 	background-color: white;
 	width: 25%;
+}
+.card:hover
+{
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .bname
@@ -656,7 +660,6 @@ body
  .bod6
  {
 	 background-color: #004976;
-	 width: 100vw;
  }
 
  .bod6-1
