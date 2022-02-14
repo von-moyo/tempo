@@ -329,7 +329,6 @@ body
 	font-size: 29px;
     font-weight: 700;
     line-height: 36px;
-	font-stretch: ;
     color: #001c3d;
 	width: 420px;
 }
@@ -463,6 +462,7 @@ body
 	justify-content: center;
 	max-width: 1440px;
 	margin: 4rem auto;
+	margin-left: 20px;
 }
 
 #ct
@@ -597,7 +597,6 @@ body
 }
 .b5img
 {
-	margin-left
 	margin-top: 0px;
 	width: 35vw;
 }
@@ -984,10 +983,6 @@ body
 	{
 		border-top: solid 0.2px palevioletred;
 		margin-top: 50px;
-	}
-	.box6
-	{
-		width: %;
 	}
 	.bod6-2
 	{
@@ -1513,7 +1508,6 @@ body
 	#imgbd5
 	{
 		margin-left: 8%;
-		width: ;
 	}
 	#cda
 	{
@@ -1524,6 +1518,7 @@ body
 		flex-direction: column;
 		align-items: center;
 	}
+
 	#bodmainn
 	{
 		align-items: center;
@@ -1540,7 +1535,7 @@ body
 	}
 	#bodimgg
 	{
-		width: 42%;
+		width: 90%;
 	}
 	.displayicons
 	{
@@ -2055,6 +2050,12 @@ body
 	{
 		width: 280px;
 		padding-right: 0px;
+	}
+	#bodimgg
+	{
+		width: 90%
+		
+		];
 	}
 }
 
