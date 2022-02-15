@@ -2000,6 +2000,8 @@ body
 	{
 		width: 80%;
 		margin-left: 10%;
+		margin-bottom: 0;
+		margin-top: 10px;
 	}
 	.boxxx
 	{
@@ -2009,6 +2011,10 @@ body
 	#boxxx
 	{
 		margin-left: 15%;
+	}
+	.bod5-1
+	{
+		margin-top: 30px;
 	}
 	.bod6-1
 	{
